@@ -11,6 +11,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Inicio do programa
+ *
+ *
+ * PARA OS DADOS SEREM SALVOS NO BANCO DE DADOS É NECESSÁRIO ACESSAR A URL
+ * localhost:8080/load
+ *
+ * ASSIM OS DADOS DA PLANILHA CSV SERÁ SALVA NO BANCO DE DADOS H2.
  */
 public class Desafio_IBM {
 
